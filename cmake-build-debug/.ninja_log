@@ -1,0 +1,18 @@
+# ninja log v5
+1	223	6882948905389142	CMakeFiles/Data_Structure_.dir/insertArray.c.obj	473d83bf39722afd
+218	575	6882997114983957	Data_Structure_.exe	384d9a77f3a566ce
+1	399	6882974201875685	CMakeFiles/Data_Structure_.dir/deleteElement.c.obj	9ad90635f4b81554
+1	335	6882984195932778	CMakeFiles/Data_Structure_.dir/TowerOFHanoi.c.obj	9c416407bb278bc1
+3	133	6882980029533836	CMakeFiles/Data_Structure_.dir/largestAndsmallest.c.obj	179204b39cbb6686
+1	317	6882983152763305	CMakeFiles/Data_Structure_.dir/FibonacciSeries.c.obj	8a7689e05f0ba150
+4	787	6882985669954401	CMakeFiles/Data_Structure_.dir/firstpatternmatching.c.obj	f1b9919cdab2f79a
+3	223	6882987689129108	CMakeFiles/Data_Structure_.dir/linearSearch.c.obj	2e9f5ec15c768e07
+1	217	6882988972737861	CMakeFiles/Data_Structure_.dir/binarysearch.c.obj	f1b117e7216e7aae
+1	297	6882989973296006	CMakeFiles/Data_Structure_.dir/bubbleSort.c.obj	601e033aa7d28e55
+2	722	6882990975691013	CMakeFiles/Data_Structure_.dir/quicksort.c.obj	72d63db2d749aec
+0	250	6882992551458517	CMakeFiles/Data_Structure_.dir/InsertelementLinkedlist.c.obj	90e0bc6c4f4b4e9f
+0	428	6882994066077255	CMakeFiles/Data_Structure_.dir/Deleteelementlinkedlist.c.obj	36b766b09d5b8dd4
+0	251	6882995376381169	CMakeFiles/Data_Structure_.dir/majorStack.c.obj	4a5b265de29ccf82
+2	216	6882997112665794	CMakeFiles/Data_Structure_.dir/majorqueue.c.obj	a88c1a267e4664fc
+0	296	6882998908735808	CMakeFiles/Data_Structure_.dir/postfixnotation.c.obj	5ad7c19b592b8e72
+298	550	6882998911214749	Data_Structure_.exe	2b0e503fc49884ef
